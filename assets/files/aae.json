@@ -1,12 +1,6 @@
 [
-  {
-    "days": 31,
-    "events": [{ "day": 2, "message": "hello", "chatId": "919667433553@c.us" }]
-  },
-  {
-    "days": 28,
-    "events": [{ "day": 13, "message": "hello", "chatId": "919810481197@c.us" }]
-  },
+  { "days": 31, "events": [] },
+  { "days": 28, "events": [] },
   { "days": 31, "events": [] },
   { "days": 30, "events": [] },
   { "days": 31, "events": [] },
@@ -15,15 +9,6 @@
   { "days": 31, "events": [] },
   { "days": 30, "events": [] },
   { "days": 31, "events": [] },
-  {
-    "days": 30,
-    "events": [
-      {
-        "day": 3,
-        "message": "Happy Birthday Madhavi 😊",
-        "chatId": "919810481197@c.us"
-      }
-    ]
-  },
+  { "days": 30, "events": [] },
   { "days": 31, "events": [] }
 ]
